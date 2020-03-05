@@ -1,0 +1,22 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "description": "prueba de concepto example 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genesiscastillo/tutorialNode.git"
+  },
+  "keywords": [
+    "testnode"
+  ],
+  "author": "Cesar Castillo <genesiscastillo@hotmail.com> (http://www.cesarcastillo99.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genesiscastillo/tutorialNode/issues"
+  },
+  "homepage": "https://github.com/genesiscastillo/tutorialNode#readme"
+}
